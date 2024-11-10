@@ -11,6 +11,8 @@
 
 点击[这里](https://michaelshenmo.github.io/)查看
 
+点击[这里](https://michaelshenmo.github.io/TBSvs.CLS/Updatelog)查看更新日志
+
 <br/>
 
 ## 版本命名规则
