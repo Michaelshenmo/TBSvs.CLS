@@ -9,7 +9,7 @@
 
 这里是土拨鼠大战臭老鼠的仓库！
 
-点击[这里](https://michaelshenmo.github.io/)查看
+点击[这里](https://michaelshenmo.github.io/)查看游戏
 
 点击[这里](https://michaelshenmo.github.io/TBSvs.CLS/Updatelog)查看更新日志
 
