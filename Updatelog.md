@@ -1,7 +1,7 @@
 # 土拨鼠大战臭老鼠（TBSvs.CLS）更新日志
-想要体验最新版本？那么请[跳转到游戏](https://michaelshenmo.github.io/)
+想要体验最新版本？那么请[跳转到游戏](https://game.msyark.top/)
 
-想要浏览关于《土拨鼠大战臭老鼠》的介绍？那么请[跳转到README](https://michaelshenmo.github.io/TBSvs.CLS/README)
+想要浏览关于《土拨鼠大战臭老鼠》的介绍？那么请[跳转到README](https://game.msyark.top/TBSvs.CLS/README)
 
 想要为《土拨鼠大战臭老鼠》提供反馈？那么请[跳转到Issues](https://github.com/Michaelshenmo/TBSvs.CLS/issues)
 
