@@ -23,6 +23,12 @@
 
 <br/>
 
+## 星标历史记录
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Michaelshenmo/TBSvs.CLS&type=Date)](https://star-history.com/#Michaelshenmo/TBSvs.CLS&Date)
+
+<br/>
+
 ## 大事记
 
 2024/2 确定项目&签订协议&获得两角色许可
